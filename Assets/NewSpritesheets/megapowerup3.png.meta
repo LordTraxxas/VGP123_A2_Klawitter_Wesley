@@ -1,0 +1,1481 @@
+fileFormatVersion: 2
+guid: 9c45ab050f153af4f995c8b9d9626413
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megapowerup3_0
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 845
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff95eed15eeeee42a86a91c3fc43c9a
+      internalID: 1885828457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 845
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0dff49f9cd0644f936c24d399b9163
+      internalID: 275185334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 865
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb2f534020c7842aa747965f14ffb1
+      internalID: -307707403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 778
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5202fcbd9d5d41e44b4d4f6c245306f9
+      internalID: 614810558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 778
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf9b4d15ea23c7419ccc96caf5dc599
+      internalID: -1555739145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 790
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99285f293be1534a8189b1b7b36368f
+      internalID: -709386712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 790
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f809777b3e49b4898df2189030c9df
+      internalID: -1944717804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 790
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dcd096beead0344950afcac6d699ed
+      internalID: 880976371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 799
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ed0c57492ee894daf7652a5453fdeb
+      internalID: 1534120396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 630
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0740aae1a13e9df40b3a14672459c310
+      internalID: 1928667304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 630
+        width: 107
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2c38fae96dd644ca3a0a1f99994140
+      internalID: 1569362093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 630
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59050fbccfbe3745a3a74da5dd3ad23
+      internalID: 1011402129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 630
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f0ed90c3e8624a951089db387c35f
+      internalID: 1349197339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_13
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 630
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934ac6b064e13a2468033c70c7a878ef
+      internalID: 1942442289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 630
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b9cf0551aa7b64cacea3b1d1af9d03
+      internalID: -376688287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 630
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe5e2957b8e29644ad50a5366e64f9d
+      internalID: 1379685742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_16
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 630
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bcf44048854394396a979d7a5dd113
+      internalID: -1495703558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 630
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4e8e2191cc8b54e9a11f3afb4ad191
+      internalID: -1503783580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_18
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 632
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1195e671ef9554c8f12128d85ac64c
+      internalID: -1440833107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_19
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 630
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381b1435d25a6f242a5816ee97c62d69
+      internalID: -537180455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_20
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 643
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d835f5fc7afd742b66f96d098aef86
+      internalID: 1639574801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_21
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 553
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e5076297af614ca2cce0f777e62dc
+      internalID: -1925150221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_22
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 553
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc62775471836247add069fdaf9c8b1
+      internalID: 1418213283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 563
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254cf5725e85d97448c8958673e650d7
+      internalID: -82545812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_24
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 563
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d8d5d94b8a6124494e87a412e6269a
+      internalID: -1476885697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 478
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a559d7a650d0194588bf792292c283b
+      internalID: -490915862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 478
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba43548a45eaf142b18d55bc1a91436
+      internalID: -1558961351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 484
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c966c70f58e78e48a738395a5ac33c5
+      internalID: 349951005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 480
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b695561aa4286924396226d9e7c97926
+      internalID: 1219641780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 482
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26faa47565bd09a4e9ae598498459a6b
+      internalID: -1519142605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 476
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0239b92a0dfa870429f7ebe20de9d377
+      internalID: 1667637610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 476
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160b4b7b92077f74daa52dc47abfc93c
+      internalID: -2030333406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 486
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806bb41588a85424e8e2504e26595bc8
+      internalID: -1711786124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_120
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 290
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea26226ee5296848ab5257843d4dfa3
+      internalID: -1172531133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_121
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 284
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d6a1f9dfa99340a151d376485872c
+      internalID: -1068585748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_122
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 280
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3830290ffe8f07d408e75405806bc344
+      internalID: 49030272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_123
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 220
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f71eed76be847642a0eb74dd29d3872
+      internalID: -817071287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_124
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 220
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5f6b3bdc5bf2d4da5cfbd3cfcff742
+      internalID: 1748866904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_125
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 232
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28217025d88763b46b448dfb195acb6b
+      internalID: 47304552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_126
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 232
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652add16bd2e07c44be589e8c16ca258
+      internalID: 1320044269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_127
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 236
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1145398e4fae14da4796407bcc76bb
+      internalID: -384164602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_128
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 168
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f8b45341741c49a3e25dd8c3c5f0a
+      internalID: 89970642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_129
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 168
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f0e5ad9b868ff4e84d98e7480bf9b6
+      internalID: -1193447361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_130
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 168
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda2e0def6810774aa4b0472c6b3277e
+      internalID: -948241534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_131
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 97
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa42aaed4d74d43a2e57b5577127c4
+      internalID: 1378481923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_132
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 97
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304b2b9118f4fb45b6539c814982350
+      internalID: -158180705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_133
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 84
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba1f16ada69064181fd93fdd1669ea
+      internalID: -991345276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_134
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 84
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eca08d4e522d747bb7966a77658e7c
+      internalID: -1239547716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_135
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 101
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e383b9e01bb9f43a828a69549663f8
+      internalID: 1019097326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_136
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 101
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa87fdecfe6f7640ba38ce8d0a9cd4f
+      internalID: -1123338449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_137
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 84
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fd02d70b645194eb379fbe222660a5
+      internalID: 2122457156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_138
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 84
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e4547b50d67934fb6ac44d76f2c395
+      internalID: -924226880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_139
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 134
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc40ec97c77ce64abd5064af5e9aae1
+      internalID: 332777520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_140
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 84
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a57d2895465c24bb46ce775de65e6d
+      internalID: -899720084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_141
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 11
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20974c1e5c90fc4ca2fde25f4477982
+      internalID: 604822033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_142
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 11
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5affa6c98522aa4ea43e6d27f983f19
+      internalID: -1914898309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megapowerup3_143
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 32
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e59efd08d4427e428d46a26dd63957a
+      internalID: -455739748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      megapowerup3_0: 1885828457
+      megapowerup3_1: 275185334
+      megapowerup3_10: 1569362093
+      megapowerup3_100: 1731928875
+      megapowerup3_101: -1438670601
+      megapowerup3_102: -1469390758
+      megapowerup3_103: -1834281809
+      megapowerup3_104: 1000415562
+      megapowerup3_105: -227412385
+      megapowerup3_106: 1194188647
+      megapowerup3_107: -2120853506
+      megapowerup3_108: -1537481232
+      megapowerup3_109: -26726716
+      megapowerup3_11: 1011402129
+      megapowerup3_110: -2043579755
+      megapowerup3_111: 1362181599
+      megapowerup3_112: -1096457457
+      megapowerup3_113: 2045161710
+      megapowerup3_114: -917942277
+      megapowerup3_115: 1950789492
+      megapowerup3_116: -1327327919
+      megapowerup3_117: -1618309135
+      megapowerup3_118: -2099431415
+      megapowerup3_119: 1438517105
+      megapowerup3_12: 1349197339
+      megapowerup3_120: -1172531133
+      megapowerup3_121: -1068585748
+      megapowerup3_122: 49030272
+      megapowerup3_123: -817071287
+      megapowerup3_124: 1748866904
+      megapowerup3_125: 47304552
+      megapowerup3_126: 1320044269
+      megapowerup3_127: -384164602
+      megapowerup3_128: 89970642
+      megapowerup3_129: -1193447361
+      megapowerup3_13: 1942442289
+      megapowerup3_130: -948241534
+      megapowerup3_131: 1378481923
+      megapowerup3_132: -158180705
+      megapowerup3_133: -991345276
+      megapowerup3_134: -1239547716
+      megapowerup3_135: 1019097326
+      megapowerup3_136: -1123338449
+      megapowerup3_137: 2122457156
+      megapowerup3_138: -924226880
+      megapowerup3_139: 332777520
+      megapowerup3_14: -376688287
+      megapowerup3_140: -899720084
+      megapowerup3_141: 604822033
+      megapowerup3_142: -1914898309
+      megapowerup3_143: -455739748
+      megapowerup3_15: 1379685742
+      megapowerup3_16: -1495703558
+      megapowerup3_17: -1503783580
+      megapowerup3_18: -1440833107
+      megapowerup3_19: -537180455
+      megapowerup3_2: -307707403
+      megapowerup3_20: 1639574801
+      megapowerup3_21: -1925150221
+      megapowerup3_22: 1418213283
+      megapowerup3_23: -82545812
+      megapowerup3_24: -1476885697
+      megapowerup3_25: -490915862
+      megapowerup3_26: -1558961351
+      megapowerup3_27: 349951005
+      megapowerup3_28: 1219641780
+      megapowerup3_29: -1519142605
+      megapowerup3_3: 614810558
+      megapowerup3_30: 1667637610
+      megapowerup3_31: -2030333406
+      megapowerup3_32: 1719681065
+      megapowerup3_33: -1382922744
+      megapowerup3_34: -2045922037
+      megapowerup3_35: 766065260
+      megapowerup3_36: -451411909
+      megapowerup3_37: -1917807105
+      megapowerup3_38: -480032672
+      megapowerup3_39: -1540861856
+      megapowerup3_4: -1555739145
+      megapowerup3_40: -1711786124
+      megapowerup3_41: -815997994
+      megapowerup3_42: 624718534
+      megapowerup3_43: 71205069
+      megapowerup3_44: -1734195578
+      megapowerup3_45: 2039751947
+      megapowerup3_46: 857379041
+      megapowerup3_47: -1854618718
+      megapowerup3_48: 824052395
+      megapowerup3_49: -393600894
+      megapowerup3_5: -709386712
+      megapowerup3_50: -132919334
+      megapowerup3_51: -939154435
+      megapowerup3_52: -955346658
+      megapowerup3_53: 306409837
+      megapowerup3_54: 1399382345
+      megapowerup3_55: 1906658688
+      megapowerup3_56: -27830845
+      megapowerup3_57: -1426752998
+      megapowerup3_58: 1428148668
+      megapowerup3_59: -1840767576
+      megapowerup3_6: -1944717804
+      megapowerup3_60: -1169344948
+      megapowerup3_61: -247360888
+      megapowerup3_62: -1539375669
+      megapowerup3_63: -130372695
+      megapowerup3_64: 1033713131
+      megapowerup3_65: -799830039
+      megapowerup3_66: -958452690
+      megapowerup3_67: 1968700993
+      megapowerup3_68: -738335844
+      megapowerup3_69: -702650216
+      megapowerup3_7: 880976371
+      megapowerup3_70: -984343226
+      megapowerup3_71: 1759401603
+      megapowerup3_72: -925802381
+      megapowerup3_73: -1903956675
+      megapowerup3_74: -850588348
+      megapowerup3_75: 263441180
+      megapowerup3_76: -1108673810
+      megapowerup3_77: 2088251183
+      megapowerup3_78: 1601411836
+      megapowerup3_79: -411878988
+      megapowerup3_8: 1534120396
+      megapowerup3_80: -620905238
+      megapowerup3_81: 1993850977
+      megapowerup3_82: 405656916
+      megapowerup3_83: -583610228
+      megapowerup3_84: 1661027214
+      megapowerup3_85: 1109867443
+      megapowerup3_86: -1743655993
+      megapowerup3_87: -1323380537
+      megapowerup3_88: 129096448
+      megapowerup3_89: 747400038
+      megapowerup3_9: 1928667304
+      megapowerup3_90: 1378051809
+      megapowerup3_91: -2056192187
+      megapowerup3_92: -724801669
+      megapowerup3_93: -318124853
+      megapowerup3_94: -222300060
+      megapowerup3_95: 1395331623
+      megapowerup3_96: -1298543116
+      megapowerup3_97: -10184217
+      megapowerup3_98: -398073563
+      megapowerup3_99: -1711895109
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

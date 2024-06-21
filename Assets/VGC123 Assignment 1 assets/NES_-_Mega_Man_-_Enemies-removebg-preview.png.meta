@@ -1,0 +1,3352 @@
+fileFormatVersion: 2
+guid: 74e09a7f294b6d84bb7247d7eb847a75
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 35
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f2accab2cf8540a2bd1617d925f2c
+      internalID: 1928631729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 328
+        width: 17
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c256ede72b24e24eb04061d8222097b
+      internalID: 211360206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 321
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050659ee13bfef147bec6296baddbfbf
+      internalID: 644780921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 321
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb5b433ef42720409c5cf60b5b05117
+      internalID: 2020904449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 321
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b401d13f4a39bf449a8792741ab79778
+      internalID: -412357201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 329
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d51fe24d88ba478a58075968038a1
+      internalID: 1531407300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 328
+        width: 17
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacfaa8479c4d4648a24bc3341402cc9
+      internalID: -955784267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 329
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd946a94f0c85f44f9bf66be3663f44c
+      internalID: -603963552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 328
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e2a51690685249b85a99cd8f2c218
+      internalID: 2098325776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 329
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114a6e9211ff19841b21fe714ed18532
+      internalID: 1848440045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 329
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ad0bcedf13ba34baa09b882d189a3a
+      internalID: -629277987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 329
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1434a01af2e9b0e4a9aff4add0467873
+      internalID: -1265153939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 329
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34122264696db274ab18dfe81614def7
+      internalID: -94963654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 329
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1378ebad01639b64ba249dfd4a4bc8a0
+      internalID: -775472866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 329
+        width: 30
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9db70e5c4ff244989b6a61cfaac6fa
+      internalID: -17599289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 329
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b8616a811c2664384023d3762f7eb9
+      internalID: -308410046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 321
+        width: 81
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8087dc7d0263942aac7a2caf0a6457
+      internalID: 321302373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 321
+        width: 39
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16345c4ef64677649adbd68b15006ada
+      internalID: 338003654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 329
+        width: 28
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ead2e441331bb4897f46715e6fc1eb
+      internalID: -1745172941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 321
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550895f0b7387f945bd60a8e360b3d74
+      internalID: -1177897528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 321
+        width: 35
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c761d329614c4fb19d797b8d7fdc0
+      internalID: 602871718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 321
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d65ce85861da4dbd88da5d5e8ab41
+      internalID: -1626393593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 328
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26e49eebc3301a498e09f9d09496690
+      internalID: -1888462745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 329
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db63d7959fd30a4980cebf51ec231af
+      internalID: -539106975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 320
+        width: 20
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389eb80c1cb5fb7429d42115785625dc
+      internalID: 553948811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 321
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647b49c6235b70248865a652b36bfbdc
+      internalID: 326157071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 321
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb10d932d5e5c6c4c9f40139439ad446
+      internalID: 1733058803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 320
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ac865fdd9c6734790a8609e9f1e66d
+      internalID: 307150552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 279
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043759effaae540468f2739b53a48638
+      internalID: 36751444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 280
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9defd7f9c6843b428be3cd4798a11aa
+      internalID: 365212667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 321
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becd2689b83b2124aa2008a14d74a351
+      internalID: -594014734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 321
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0fc2e1cb03218458b9a3c9f992cf26
+      internalID: -187676223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8038ca7ee7e507340801a5278cc76c77
+      internalID: -1934358322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 301
+        width: 53
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a3ab3796b0437428bea11d23b83b71
+      internalID: -28537783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 293
+        width: 69
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fe3644b2ac1f34daff9d37a40da023
+      internalID: 939172914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 302
+        width: 34
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2fc5685c1eee7469145d59c73a6d79
+      internalID: 582633985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096aea2b1a05ea846bbb760049f21662
+      internalID: 922242459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 256
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53a7eeee87699740aa80483e3a4b123
+      internalID: 1767231719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 256
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4369c7b9b898b5341b063a6061fee396
+      internalID: -1354438340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9dfad5bd70d94a85e780a7b53abda
+      internalID: -2112978516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe34189455a19a247b0bb5b00205b1b7
+      internalID: 337619861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 256
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9142ccd87d62d6468948c11cafd2ddc
+      internalID: 1553599414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb20b9432e9ed64795cc5db988f7399
+      internalID: 635033157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 256
+        width: 23
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9296d0e8060b0d43ab3d5fa8622ee15
+      internalID: 134115321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 256
+        width: 31
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213d071474951b548ad30ddc9179cab0
+      internalID: 188800500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 256
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee5c506f3682004a876fb9c7bcec107
+      internalID: -898094756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1638108b9c11044a9884e1667c25a3
+      internalID: -625653860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 256
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2755837be1bb394487480458a0951a1
+      internalID: -1927201138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 256
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5d7e9cf6da25540b89b0f358554293
+      internalID: 524556299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 256
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02918630f574d6d409cb0b403dbe519d
+      internalID: 892497876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 256
+        width: 24
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6598009513a6d714bbde343a5139b38a
+      internalID: 148757421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 256
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8534d62b7453c54e9856b4e2e2f0d12
+      internalID: 1358875884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 256
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9460b752e944a3247b9a7e379b7414e3
+      internalID: 250191617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 256
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6191e0bb48c9544d9bdf935ddd714b1
+      internalID: 1864969225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 256
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8478dd51c05834e8077a53244b7efa
+      internalID: -842964669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 256
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30acbc94c83fecc42b34699efea9419c
+      internalID: 789939734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy2_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 221
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1609b9ba787712e4bb29388ea984eb6b
+      internalID: -1191799905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 219
+        width: 65
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423c87275b4dec14bb4fa3a379f44c39
+      internalID: 1673349193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 204
+        width: 99
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2476a40a7cd7c429bd830b7f3435de
+      internalID: 970695741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 188
+        width: 102
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51d189722f54c84f9b615943977de52
+      internalID: -968364845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 211
+        width: 64
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f185b50838ba645b57efe27d27afee
+      internalID: -1543852797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 207
+        width: 44
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594867c1110bbc044af0fcb473c3b18c
+      internalID: -4644253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 208
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cbe1513c78c6f47956e1bea52dcc37
+      internalID: 1867590023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 197
+        width: 69
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac71f7c144f99843a552527587002c5
+      internalID: -1982119153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc9c877f85c45b47a16ef61ff87f485
+      internalID: -1343580571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 175
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed64989bd148b24888b56206611f55c
+      internalID: 785121129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 174
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7298057069c0398468ae0d62a28ff6b9
+      internalID: -496309911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 174
+        width: 39
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac269082fdcf2fd45b82bc872dc8f509
+      internalID: -1246228850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 175
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdba9ace43e6e34ebe45986e8613547
+      internalID: 1611657264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 174
+        width: 54
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89296c32e1e3c6419f602a2570701a0
+      internalID: -403286791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 174
+        width: 33
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a4a66b1918cb42b7463db39a5366d
+      internalID: 1910744542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 175
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e16f36542bd4a45b3d06c5b14754f0
+      internalID: 89353867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 175
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b523d895965f7499a6ab079f7f6e8f
+      internalID: -691460216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 175
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69d0af5fa64711458e0da2bbd8680ed
+      internalID: -276051269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 175
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a51d7922780494e9eaa6c3e7ef1b74
+      internalID: 1723296856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 166
+        width: 34
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c58f3d8b6832429caa3f3a68ab717
+      internalID: 1632277203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 175
+        width: 29
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197b48513c9dabe4c86ce68d25a9976a
+      internalID: -1344950320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 167
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13b4617b5e7de84886fba240d524c63
+      internalID: -612813604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 167
+        width: 6
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab308034d947c8747971f4ae775fba68
+      internalID: 987112403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 167
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e329dc44f86e484c8d5ec2039d6bf87
+      internalID: 872029520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 167
+        width: 39
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699f1837a72a774c818b6b2f7b75caa
+      internalID: 350930859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 175
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593f045d8d52c744f9e066b65f8f49db
+      internalID: 1853555159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 175
+        width: 20
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4ae7f2b4c9b64389fcf595cb586e3
+      internalID: -1509055454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 175
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd92045fa986a904b9204ae7353750e7
+      internalID: -1520451647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 155
+        width: 51
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc07b7716df7f046b847b8e26e5b9d7
+      internalID: 2145871565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 174
+        width: 37
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3ea48b0ce29a541bf23c349df814fc
+      internalID: -1134649048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 110
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3e23c8a40f93d488aa2263a0a58bc4
+      internalID: -240006516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 146
+        width: 105
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d7d684c9513924d913e04b04a931ea
+      internalID: -1655962857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 106
+        width: 76
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf479f7bfee81d4cb6fb77c61121b9a
+      internalID: -1016619675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 167
+        width: 27
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eb1d6cb696cd347a2c541d50c432eb
+      internalID: -738089160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 167
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27347c124ca9d54db55be4c4bcf8ad7
+      internalID: 1734349393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 140
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87840569dfa7487489218f99ceec6cbd
+      internalID: -1312203511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 140
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8a4dcd70a39684e98d4c52a84c8f63
+      internalID: 1540495002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 147
+        width: 59
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d39c96bba51a4a822e49907d8b717
+      internalID: -2001862833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 127
+        width: 31
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74209b24961b5c049a9682fa06977177
+      internalID: -95052569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 127
+        width: 37
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57c7d169c0c32f4c8f5a0e2ca39b80a
+      internalID: -578711889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 127
+        width: 35
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c763ec3787f3b04a96156d1952eaacd
+      internalID: -667415513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 136
+        width: 21
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0010472cc46184c93da3690d4de5d9
+      internalID: -1442382187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 136
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16170b8c6c54831478d57ea9fcf7eaf1
+      internalID: 210094407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 135
+        width: 20
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c88895f57a39f646a78e46c8d63274b
+      internalID: -2130966082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 135
+        width: 42
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c71168ebdcf2f34ba972101f9902fd4
+      internalID: -295924742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 128
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0310cd764f7f12e4aa8f138dbe73562b
+      internalID: 1044219245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 84
+        width: 102
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b83c4fbd3d4164c9dafb7461941df1
+      internalID: 1153123882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 116
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603a974e99f89de4ea108f0e3fbd1110
+      internalID: -1573976718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 125
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b2520553da8414aa69999593d2ebc0
+      internalID: 653469003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 116
+        width: 51
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f4d411b65f5974cb290530f1e18120
+      internalID: -1473131025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 108
+        width: 52
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c420cab041b24143af6cc20d3cfd4e8
+      internalID: 660595578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 93
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ce938e82cd3774bb673c1e3d0c5cac
+      internalID: -1180644273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 152
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b457b22c24358f4eaeb4eee2e9bf03a
+      internalID: 576088470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 89
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91f39a1aa202ad40ab59600569953d8
+      internalID: -185386947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 97
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9605ae110a787234986e54df9556ba2f
+      internalID: 765519297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 97
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc382c8741e6c845ae155b41bc7580d
+      internalID: 1112817492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 88
+        width: 43
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98426ae73749cea4baec39191e65f0b4
+      internalID: 1753109696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 97
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb428bf40ecbd04eb08bbdc509e98a7
+      internalID: -1296577665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 96
+        width: 38
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf629dc57f361ff4a847f58da10b47a7
+      internalID: -621414933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 96
+        width: 21
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cc455624edcdf4eafabf661f7b122f
+      internalID: -1833982589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 89
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636d90350d70efa4b856123764f63523
+      internalID: 2127641279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 88
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f988f38a1ae8e049aa70651b2d13d95
+      internalID: 94865921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 61
+        width: 126
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3baa5409a473a44c8fd272cf37d2f85
+      internalID: -462723384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 36
+        width: 94
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7a28e56eba972418238c1a7ece2a48
+      internalID: -727962900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 73
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25119dd78ce5e0c4d95b1e7a996d054f
+      internalID: 978721186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 73
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb9044671a0a254d800cb850163c58d
+      internalID: 1131341556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 73
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc3a6e8f4b610347ab60a2921a2826f
+      internalID: -667167845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 73
+        width: 24
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28068263d5e6114f8930ac11ca6ed6d
+      internalID: 1201080998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 73
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fdf2cd2c9080f4280c94f78cd04c21
+      internalID: 465456564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 73
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42bfe6515935234aa3441e7ddb9e756
+      internalID: -1558880799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 72
+        width: 62
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43762396f1cdae640857803984338f56
+      internalID: 942201531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 72
+        width: 24
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3876b8a3272502b478db4fa437ce2210
+      internalID: -541140179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 73
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c4ba8a5c7a3645b5568f4f7ed7ef9
+      internalID: 11259608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 73
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e69373a2e6e32c49980af319ac53190
+      internalID: 1843767887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 73
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8db82d9dd25e24296f345d376a5301
+      internalID: 1741524333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 63
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9600bf70632728449adc4bf75ba888da
+      internalID: 78589027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 62
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fec373b6011b3a4b8282e6198388cd6
+      internalID: -1148552183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 63
+        width: 22
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d59754bc6fd794bbfeb4f4e4a47b98
+      internalID: 1243807794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 62
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1df73591ee765f469fee5107f7ea5e9
+      internalID: 1340150590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 63
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fcf73367865594f8769e07fe5e9b6f
+      internalID: 1345136904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 62
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52dd2b9e3cc43b4bb03d9861fe7cb05
+      internalID: 272011793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 63
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28267bab682af2645a4606eeb1f5586d
+      internalID: 469195950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 63
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77610ae17397dee4382d1480a5ba19ec
+      internalID: -123867111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 35
+        width: 86
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23048793e51460340a1040ac58949206
+      internalID: -1648151151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 33
+        width: 104
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d1f20333b864344a278df7ab3d6518
+      internalID: -1175099481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Mega_Man_-_Enemies-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 224
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950a3d5d7f26d134fbbd0a4c2f679bd8
+      internalID: 1735301379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 279
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa833e39f9aec99428151e1c4ebed3be
+      internalID: -495156165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy2_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 221
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de55a25e05890243b212213f05e3351
+      internalID: 1892654331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy2_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 221
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3de54b74b57c7f499c7d66870a639bd
+      internalID: -1072883382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy2_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 245
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c8ff55b8294640a37a01cf69c80d9
+      internalID: 1558110354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES_-_Mega_Man_-_Enemies-removebg-preview_0: 1928631729
+      NES_-_Mega_Man_-_Enemies-removebg-preview_1: 211360206
+      NES_-_Mega_Man_-_Enemies-removebg-preview_10: -629277987
+      NES_-_Mega_Man_-_Enemies-removebg-preview_100: -295924742
+      NES_-_Mega_Man_-_Enemies-removebg-preview_101: 1044219245
+      NES_-_Mega_Man_-_Enemies-removebg-preview_102: 1153123882
+      NES_-_Mega_Man_-_Enemies-removebg-preview_103: -1573976718
+      NES_-_Mega_Man_-_Enemies-removebg-preview_104: 653469003
+      NES_-_Mega_Man_-_Enemies-removebg-preview_105: -1473131025
+      NES_-_Mega_Man_-_Enemies-removebg-preview_106: 660595578
+      NES_-_Mega_Man_-_Enemies-removebg-preview_107: -1180644273
+      NES_-_Mega_Man_-_Enemies-removebg-preview_108: 576088470
+      NES_-_Mega_Man_-_Enemies-removebg-preview_109: -185386947
+      NES_-_Mega_Man_-_Enemies-removebg-preview_11: -1265153939
+      NES_-_Mega_Man_-_Enemies-removebg-preview_110: 765519297
+      NES_-_Mega_Man_-_Enemies-removebg-preview_111: 1112817492
+      NES_-_Mega_Man_-_Enemies-removebg-preview_112: 1753109696
+      NES_-_Mega_Man_-_Enemies-removebg-preview_113: -1296577665
+      NES_-_Mega_Man_-_Enemies-removebg-preview_114: -621414933
+      NES_-_Mega_Man_-_Enemies-removebg-preview_115: -1833982589
+      NES_-_Mega_Man_-_Enemies-removebg-preview_116: 2127641279
+      NES_-_Mega_Man_-_Enemies-removebg-preview_117: 94865921
+      NES_-_Mega_Man_-_Enemies-removebg-preview_118: -462723384
+      NES_-_Mega_Man_-_Enemies-removebg-preview_119: -727962900
+      NES_-_Mega_Man_-_Enemies-removebg-preview_12: -94963654
+      NES_-_Mega_Man_-_Enemies-removebg-preview_120: 978721186
+      NES_-_Mega_Man_-_Enemies-removebg-preview_121: 1131341556
+      NES_-_Mega_Man_-_Enemies-removebg-preview_122: -667167845
+      NES_-_Mega_Man_-_Enemies-removebg-preview_123: 1201080998
+      NES_-_Mega_Man_-_Enemies-removebg-preview_124: 465456564
+      NES_-_Mega_Man_-_Enemies-removebg-preview_125: -1558880799
+      NES_-_Mega_Man_-_Enemies-removebg-preview_126: 942201531
+      NES_-_Mega_Man_-_Enemies-removebg-preview_127: -541140179
+      NES_-_Mega_Man_-_Enemies-removebg-preview_128: 11259608
+      NES_-_Mega_Man_-_Enemies-removebg-preview_129: 1843767887
+      NES_-_Mega_Man_-_Enemies-removebg-preview_13: -775472866
+      NES_-_Mega_Man_-_Enemies-removebg-preview_130: 1741524333
+      NES_-_Mega_Man_-_Enemies-removebg-preview_131: 78589027
+      NES_-_Mega_Man_-_Enemies-removebg-preview_132: -1148552183
+      NES_-_Mega_Man_-_Enemies-removebg-preview_133: 1243807794
+      NES_-_Mega_Man_-_Enemies-removebg-preview_134: 1340150590
+      NES_-_Mega_Man_-_Enemies-removebg-preview_135: 1345136904
+      NES_-_Mega_Man_-_Enemies-removebg-preview_136: 272011793
+      NES_-_Mega_Man_-_Enemies-removebg-preview_137: 469195950
+      NES_-_Mega_Man_-_Enemies-removebg-preview_138: -123867111
+      NES_-_Mega_Man_-_Enemies-removebg-preview_139: -1648151151
+      NES_-_Mega_Man_-_Enemies-removebg-preview_14: -17599289
+      NES_-_Mega_Man_-_Enemies-removebg-preview_140: -1175099481
+      NES_-_Mega_Man_-_Enemies-removebg-preview_141: 1735301379
+      NES_-_Mega_Man_-_Enemies-removebg-preview_15: -308410046
+      NES_-_Mega_Man_-_Enemies-removebg-preview_16: 321302373
+      NES_-_Mega_Man_-_Enemies-removebg-preview_17: 338003654
+      NES_-_Mega_Man_-_Enemies-removebg-preview_18: -1745172941
+      NES_-_Mega_Man_-_Enemies-removebg-preview_19: -1177897528
+      NES_-_Mega_Man_-_Enemies-removebg-preview_2: 644780921
+      NES_-_Mega_Man_-_Enemies-removebg-preview_20: 602871718
+      NES_-_Mega_Man_-_Enemies-removebg-preview_21: -1626393593
+      NES_-_Mega_Man_-_Enemies-removebg-preview_22: -1888462745
+      NES_-_Mega_Man_-_Enemies-removebg-preview_23: -539106975
+      NES_-_Mega_Man_-_Enemies-removebg-preview_24: 553948811
+      NES_-_Mega_Man_-_Enemies-removebg-preview_25: 326157071
+      NES_-_Mega_Man_-_Enemies-removebg-preview_26: 1733058803
+      NES_-_Mega_Man_-_Enemies-removebg-preview_27: 307150552
+      NES_-_Mega_Man_-_Enemies-removebg-preview_3: 2020904449
+      NES_-_Mega_Man_-_Enemies-removebg-preview_30: -594014734
+      NES_-_Mega_Man_-_Enemies-removebg-preview_31: -187676223
+      NES_-_Mega_Man_-_Enemies-removebg-preview_32: -1934358322
+      NES_-_Mega_Man_-_Enemies-removebg-preview_33: -28537783
+      NES_-_Mega_Man_-_Enemies-removebg-preview_34: 939172914
+      NES_-_Mega_Man_-_Enemies-removebg-preview_35: 582633985
+      NES_-_Mega_Man_-_Enemies-removebg-preview_36: 922242459
+      NES_-_Mega_Man_-_Enemies-removebg-preview_37: 1767231719
+      NES_-_Mega_Man_-_Enemies-removebg-preview_38: -1354438340
+      NES_-_Mega_Man_-_Enemies-removebg-preview_39: -2112978516
+      NES_-_Mega_Man_-_Enemies-removebg-preview_4: -412357201
+      NES_-_Mega_Man_-_Enemies-removebg-preview_40: 337619861
+      NES_-_Mega_Man_-_Enemies-removebg-preview_41: 1553599414
+      NES_-_Mega_Man_-_Enemies-removebg-preview_42: 635033157
+      NES_-_Mega_Man_-_Enemies-removebg-preview_43: 134115321
+      NES_-_Mega_Man_-_Enemies-removebg-preview_44: 188800500
+      NES_-_Mega_Man_-_Enemies-removebg-preview_45: -898094756
+      NES_-_Mega_Man_-_Enemies-removebg-preview_46: -625653860
+      NES_-_Mega_Man_-_Enemies-removebg-preview_47: -1927201138
+      NES_-_Mega_Man_-_Enemies-removebg-preview_48: 524556299
+      NES_-_Mega_Man_-_Enemies-removebg-preview_49: 892497876
+      NES_-_Mega_Man_-_Enemies-removebg-preview_5: 1531407300
+      NES_-_Mega_Man_-_Enemies-removebg-preview_50: 148757421
+      NES_-_Mega_Man_-_Enemies-removebg-preview_51: 1358875884
+      NES_-_Mega_Man_-_Enemies-removebg-preview_52: 250191617
+      NES_-_Mega_Man_-_Enemies-removebg-preview_53: 1864969225
+      NES_-_Mega_Man_-_Enemies-removebg-preview_54: -842964669
+      NES_-_Mega_Man_-_Enemies-removebg-preview_55: 789939734
+      NES_-_Mega_Man_-_Enemies-removebg-preview_57: 1673349193
+      NES_-_Mega_Man_-_Enemies-removebg-preview_58: 970695741
+      NES_-_Mega_Man_-_Enemies-removebg-preview_59: -968364845
+      NES_-_Mega_Man_-_Enemies-removebg-preview_6: -955784267
+      NES_-_Mega_Man_-_Enemies-removebg-preview_60: -1543852797
+      NES_-_Mega_Man_-_Enemies-removebg-preview_61: -4644253
+      NES_-_Mega_Man_-_Enemies-removebg-preview_62: 1867590023
+      NES_-_Mega_Man_-_Enemies-removebg-preview_63: -1982119153
+      NES_-_Mega_Man_-_Enemies-removebg-preview_64: -1343580571
+      NES_-_Mega_Man_-_Enemies-removebg-preview_65: 785121129
+      NES_-_Mega_Man_-_Enemies-removebg-preview_66: -496309911
+      NES_-_Mega_Man_-_Enemies-removebg-preview_67: -1246228850
+      NES_-_Mega_Man_-_Enemies-removebg-preview_68: 1611657264
+      NES_-_Mega_Man_-_Enemies-removebg-preview_69: -403286791
+      NES_-_Mega_Man_-_Enemies-removebg-preview_7: -603963552
+      NES_-_Mega_Man_-_Enemies-removebg-preview_70: 1910744542
+      NES_-_Mega_Man_-_Enemies-removebg-preview_71: 89353867
+      NES_-_Mega_Man_-_Enemies-removebg-preview_72: -691460216
+      NES_-_Mega_Man_-_Enemies-removebg-preview_73: -276051269
+      NES_-_Mega_Man_-_Enemies-removebg-preview_74: 1723296856
+      NES_-_Mega_Man_-_Enemies-removebg-preview_75: 1632277203
+      NES_-_Mega_Man_-_Enemies-removebg-preview_76: -1344950320
+      NES_-_Mega_Man_-_Enemies-removebg-preview_77: -612813604
+      NES_-_Mega_Man_-_Enemies-removebg-preview_78: 987112403
+      NES_-_Mega_Man_-_Enemies-removebg-preview_79: 872029520
+      NES_-_Mega_Man_-_Enemies-removebg-preview_8: 2098325776
+      NES_-_Mega_Man_-_Enemies-removebg-preview_80: 350930859
+      NES_-_Mega_Man_-_Enemies-removebg-preview_81: 1853555159
+      NES_-_Mega_Man_-_Enemies-removebg-preview_82: -1509055454
+      NES_-_Mega_Man_-_Enemies-removebg-preview_83: -1520451647
+      NES_-_Mega_Man_-_Enemies-removebg-preview_84: 2145871565
+      NES_-_Mega_Man_-_Enemies-removebg-preview_85: -1134649048
+      NES_-_Mega_Man_-_Enemies-removebg-preview_86: -240006516
+      NES_-_Mega_Man_-_Enemies-removebg-preview_87: -1655962857
+      NES_-_Mega_Man_-_Enemies-removebg-preview_88: -1016619675
+      NES_-_Mega_Man_-_Enemies-removebg-preview_89: -738089160
+      NES_-_Mega_Man_-_Enemies-removebg-preview_9: 1848440045
+      NES_-_Mega_Man_-_Enemies-removebg-preview_90: 1734349393
+      NES_-_Mega_Man_-_Enemies-removebg-preview_91: -1312203511
+      NES_-_Mega_Man_-_Enemies-removebg-preview_92: 1540495002
+      NES_-_Mega_Man_-_Enemies-removebg-preview_93: -2001862833
+      NES_-_Mega_Man_-_Enemies-removebg-preview_94: -95052569
+      NES_-_Mega_Man_-_Enemies-removebg-preview_95: -578711889
+      NES_-_Mega_Man_-_Enemies-removebg-preview_96: -667415513
+      NES_-_Mega_Man_-_Enemies-removebg-preview_97: -1442382187
+      NES_-_Mega_Man_-_Enemies-removebg-preview_98: 210094407
+      NES_-_Mega_Man_-_Enemies-removebg-preview_99: -2130966082
+      enemy1_1: 36751444
+      enemy1_2: -495156165
+      enemy1_3: 365212667
+      enemy2_1: -1191799905
+      enemy2_2: 1892654331
+      enemy2_3: -1072883382
+      enemy2_4: 1558110354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

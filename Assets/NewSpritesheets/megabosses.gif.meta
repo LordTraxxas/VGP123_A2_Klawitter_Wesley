@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: 28968c30fef85a6429d01ce2937a100e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megabosses_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 134
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e56209e361334ca67110b286fc3df
+      internalID: -841217410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 134
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfda94408d39f8646b896acfff05b0eb
+      internalID: -247667370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 134
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0561496af972af44ca7066addc3e8581
+      internalID: 1696172782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 134
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d527891b4a694180abc6df47f351a
+      internalID: -1040008736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 135
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f43900adffc6a84481b3918566e2514
+      internalID: 1759442662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 134
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd84f28de35beaa4483ca86226b03ff1
+      internalID: -55991820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 135
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b371f5845ef872d4aa7c3e3a84c04020
+      internalID: -1924595120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 141
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a57b5759812fc4c8aefcb070e85337
+      internalID: -848941637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 83
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e8336bf1e0e1249a05cfa9f3577faf
+      internalID: -192419345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 104
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3bc5602ee866648b5751d6d70d8d81
+      internalID: -1950394838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 104
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4fa94e9a6dba64cb0baf2eac29fa23
+      internalID: -1714364922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 80
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc974736d0841394ca178ca54c6182d4
+      internalID: 1277641785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 80
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8db55e68dd23884d9e8a712cd260f39
+      internalID: 585987359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 78
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03efeed0554977c4c89bf040b4e0d930
+      internalID: -1273160254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34d486520f7a2b4da9038ceb249bb55
+      internalID: -29345198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 85
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e433258a718d104ba97451100f53ff5
+      internalID: 483995850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 85
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cba2da93827514393292762d4fb173
+      internalID: 1927203874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 87
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913271e945c4604469e8d43628e375d0
+      internalID: -590174771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54078eea94acdf24a8a7b3157f7f52a5
+      internalID: -2141174451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6d05baa72d654faa8dd8fac5f9430
+      internalID: -568822378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff574d8113f70d44fbad4ce3f1334c5e
+      internalID: 878279998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_24
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 93
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2673ffa5cf7074ba30e8c264e9865a
+      internalID: 1778123137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c504c78da2c34004f812ef5c2814ff29
+      internalID: -677151409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473093b2f3109f4da35bc339c30399c
+      internalID: 1833782774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 74
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018f01bf00b4ef942b28fcdff11fde7b
+      internalID: 706095781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 12
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56efc040cf8f64c971afb126f9887f
+      internalID: 228879455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 11
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abafcb2c1a07144aaf97ab5c294f78c
+      internalID: 1911074687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 10
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea46606eef6dfec458c033919f073120
+      internalID: 1305586512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 8
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e27ac2a4cdd4854d87ae06219f49c30
+      internalID: -1894198990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b1df8c00b9fb24ab058ef2b7c0b270
+      internalID: 1107253626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 8
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e9d4a9b4c2e4d4c81faf15086004ba
+      internalID: 1400023218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabosses_29
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 11
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f069de301599242bba8473876241ba
+      internalID: -1130931302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      megabosses_0: -841217410
+      megabosses_1: -247667370
+      megabosses_10: -1714364922
+      megabosses_11: 1277641785
+      megabosses_12: 585987359
+      megabosses_13: -1273160254
+      megabosses_14: 706095781
+      megabosses_15: 228879455
+      megabosses_16: -29345198
+      megabosses_17: 483995850
+      megabosses_18: 1927203874
+      megabosses_19: -590174771
+      megabosses_2: 1696172782
+      megabosses_20: 1911074687
+      megabosses_21: -2141174451
+      megabosses_22: -568822378
+      megabosses_23: 878279998
+      megabosses_24: 1778123137
+      megabosses_25: 1305586512
+      megabosses_26: -1894198990
+      megabosses_27: 1107253626
+      megabosses_28: 1400023218
+      megabosses_29: -1130931302
+      megabosses_3: -1040008736
+      megabosses_30: -677151409
+      megabosses_31: 1833782774
+      megabosses_32: -302267176
+      megabosses_33: -1615416560
+      megabosses_34: 1405230960
+      megabosses_35: -1185574982
+      megabosses_36: 475350370
+      megabosses_37: 454275358
+      megabosses_38: 1185700449
+      megabosses_39: 1664544725
+      megabosses_4: 1759442662
+      megabosses_40: 1649042353
+      megabosses_41: 1110782301
+      megabosses_42: -1434745961
+      megabosses_43: -570738443
+      megabosses_44: 792260156
+      megabosses_45: -1421994523
+      megabosses_46: 733672477
+      megabosses_47: 1639356621
+      megabosses_48: -1309876619
+      megabosses_49: -843312771
+      megabosses_5: -55991820
+      megabosses_50: -1528404095
+      megabosses_51: 615675716
+      megabosses_52: -564621302
+      megabosses_53: -1143174933
+      megabosses_54: -658378818
+      megabosses_55: -1059770383
+      megabosses_56: -622097129
+      megabosses_57: 1146649246
+      megabosses_58: 426149540
+      megabosses_59: -1010133060
+      megabosses_6: -1924595120
+      megabosses_60: -218956214
+      megabosses_61: 1302222786
+      megabosses_62: 1825744467
+      megabosses_63: 1662586101
+      megabosses_64: -550768221
+      megabosses_65: -476378563
+      megabosses_66: 1944023715
+      megabosses_67: 1956306991
+      megabosses_68: 1968121237
+      megabosses_69: 1116013581
+      megabosses_7: -848941637
+      megabosses_70: -1336149931
+      megabosses_71: 2097930816
+      megabosses_72: -193064847
+      megabosses_73: 464888616
+      megabosses_74: -394006241
+      megabosses_75: -969106379
+      megabosses_76: 113975146
+      megabosses_77: -1536926288
+      megabosses_78: 1562350972
+      megabosses_79: -999543279
+      megabosses_8: -192419345
+      megabosses_80: 604222992
+      megabosses_81: 273632726
+      megabosses_82: 2043196294
+      megabosses_83: 686410824
+      megabosses_84: 2135301685
+      megabosses_85: -1112450292
+      megabosses_86: -416421057
+      megabosses_87: -1730274005
+      megabosses_88: -1005629741
+      megabosses_89: 720517588
+      megabosses_9: -1950394838
+      megabosses_90: -556417452
+      megabosses_91: 252118869
+      megabosses_92: -1617183414
+      megabosses_93: 229310586
+      megabosses_94: 1535965593
+      megabosses_95: -1833436321
+      megabosses_96: -1498101702
+      megabosses_97: -458045774
+      megabosses_98: 1233732462
+      megabosses_99: -1446253756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
